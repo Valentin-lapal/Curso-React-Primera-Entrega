@@ -1,0 +1,11 @@
+
+.containerProductos {
+    background-color: rgb(9, 110, 110);
+    text-align: center;
+    padding: 20px;
+}
+  
+.mensaje {
+    font-size: 30px;
+    color: #fff;
+}
